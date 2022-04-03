@@ -1,2 +1,13 @@
-# group1-hw-SC-SOGA
-Group 1 repository for the SC homework of CMLS 2022
+<h6>Group 1 repository for the SC homework of CMLS 2022</h6><br>
+<h1>ソガダド - <i>sogadado</i></h1>
+<i>The aesthetic bunch of cheap sounds the 2022 deserves.</i>
+<p>
+<br>
+<b>Guide:
+<ul>
+  <li>run sogadado/main.scd</li>
+  <li>select an audio output from the GUI </li>
+  <li>play :)</li>
+</ul>
+</b>
+</p>
