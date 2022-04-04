@@ -10,4 +10,5 @@
   <li>play :)</li>
 </ul>
 </b>
-</p>
+</p><br>
+<h6>You can find a more detailed report in the <i>Report Sogadado.pdf</i> file.</h6>
