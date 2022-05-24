@@ -3,7 +3,7 @@
 <i>The aesthetic bunch of cheap sounds the 2022 deserves.</i>
 <p>
 <br>
-  <a href="">DEMO VIDEO</a><br><br>
+  <a href="https://youtu.be/axo8LDtt8FA">DEMO VIDEO</a><br><br>
 <b>Guide:
 <ul>
   <li>run sogadado/main.scd</li>
